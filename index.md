@@ -1,4 +1,3 @@
-# uptimey
 > Simple server uptime monitor
 
 [![Build Status](https://travis-ci.org/stefanbc/uptimey.svg?branch=master)](https://travis-ci.org/stefanbc/uptimey) [![Dependency Status](https://dependencyci.com/github/stefanbc/uptimey/badge)](https://dependencyci.com/github/stefanbc/uptimey) [![Code Climate](https://codeclimate.com/github/stefanbc/uptimey/badges/gpa.svg)](https://codeclimate.com/github/stefanbc/uptimey)
