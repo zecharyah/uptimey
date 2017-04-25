@@ -2,7 +2,7 @@ title: Uptimey
 description: Beautiful Server Uptime Monitor
 google_analytics: UA-23832918-12
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
